@@ -1,0 +1,1 @@
+A sample tautology solver using Agda's reflection machinery
